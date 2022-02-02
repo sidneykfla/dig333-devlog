@@ -21,6 +21,10 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 ## Week 1
 
+1. One command that navigates the filesystem is "cd" which allows you to move from the current directory into another specified directory. One command that can be used to create files is "vim" which brings up a text editor in the terminal that can be used to create files. One command that runs programs is "python" which runs files coded in python with the .py extension.
+2. Of the commands used, the "cd" command reminds me of the nested nature of folders on the computer. For example, if folder A contains folder B and folder C contains folder D, and both A and C are themselves contained with a larger folder E, when the user is currently within folder A on the terminal, they can use "cd" to move into folder B but will not be able to move into folder D.
+3. I feel like I accomplished the learning objectives of this section. One question I still have is why Bash comes from Bourne Again Shell.
+
 ### Context
 
 - Summarize the article(s) in 3-4 sentences. Also include...
