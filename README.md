@@ -25,6 +25,9 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 2. Of the commands used, the "cd" command reminds me of the nested nature of folders on the computer. For example, if folder A contains folder B and folder C contains folder D, and both A and C are themselves contained with a larger folder E, when the user is currently within folder A on the terminal, they can use "cd" to move into folder B but will not be able to move into folder D.
 3. I feel like I accomplished the learning objectives of this section. One question I still have is why Bash comes from Bourne Again Shell.
 
+
+## Week 2
+
 ### Context
 
 - Summarize the article(s) in 3-4 sentences. Also include...
@@ -32,6 +35,11 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 - 1 related comment on the reading(s)
 - 1 related follow-up question (what question does it bring up for you?)
 
+Quote: How ‘smart’ is it to let the Internet of Things pervade everything in our lives, without active and purposeful design?
+
+I thought that it was really interesting that when addressing concerns about the future of the Internet of Things, the writer primarily discussed data security. While data security is extremely important, most issues I've previously heard people address were whether having all of our items connected to the internet is as desirable as we think (i.e. "how ‘smart’ is it to let the Internet of Things pervade everything in our lives").
+
+Question: Doesn't it benefit companies to a certain extent if their IoT devices can't communicate with the IoT devices from other companies?
 
 ### Experiments
 
