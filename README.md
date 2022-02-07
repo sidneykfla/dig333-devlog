@@ -30,14 +30,11 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 ### Context
 
-- Summarize the article(s) in 3-4 sentences. Also include...
-- 1 quote from the reading(s)
-- 1 related comment on the reading(s)
-- 1 related follow-up question (what question does it bring up for you?)
+Quote: "How ‘smart’ is it to let the Internet of Things pervade everything in our lives, without active and purposeful design?" (Sarma)
 
-Quote: How ‘smart’ is it to let the Internet of Things pervade everything in our lives, without active and purposeful design?
+- In "The Internet of Things: Roadmap to a Connected World", Sanjay Sarma discusses both the design achievements and limitations in the development of the internet of things. He describes how the previously unthinkable interconnectedness of modern products leads to both greater value to consumers and growing security concerns. The anonymous author of "The Internet of Things has a dirty little secret: it's not really yours" expands on these concerns by suggesting that these security flaws are not just resulting from a lack of communication among companies but instead part of a larger system that continually disadvantages consumers. By providing buyers with shiny new features, companies are able to build planned obsolescence and a lack of reliability and support into their products.
 
-I thought that it was really interesting that when addressing concerns about the future of the Internet of Things, the writer primarily discussed data security. While data security is extremely important, most issues I've previously heard people address were whether having all of our items connected to the internet is as desirable as we think (i.e. "how ‘smart’ is it to let the Internet of Things pervade everything in our lives").
+I thought that it was really interesting that when addressing concerns about the future of the Internet of Things, Sarma primarily discussed data security. While data security is extremely important, most issues I've previously heard people address were whether having all of our items connected to the internet is as desirable as we think (i.e. "how ‘smart’ is it to let the Internet of Things pervade everything in our lives"). While these issues are discussed more in the other article, I don't think either really approaches the issue from the perspective of how the internet of things is changing our interactions with technology. 
 
 Question: Doesn't it benefit companies to a certain extent if their IoT devices can't communicate with the IoT devices from other companies?
 
