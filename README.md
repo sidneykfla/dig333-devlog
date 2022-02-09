@@ -42,7 +42,32 @@ Question: Doesn't it benefit companies to a certain extent if their IoT devices 
 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
-1. Name of the experiment
+1. Taste the power!
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
+
+![IMG_5058](https://user-images.githubusercontent.com/68158566/153242531-9dea1af9-b2fa-4915-9a98-0d5d434b0925.jpg)
+(The setup that I used to shock my tongue. Photo of me being shocked not included.)
+In this experiment, I connected two 4.5 V battery packs together and then used them to shock my tongue.
+
+    1. The distance of the prongs on your tongue varies the severity of the shock.
+    2. Quiz question: Why isn't there any heat on your tongue when you shock it?
+    
+2. Let's abuse a battery!
+In this experiment, the textbook describes the process of shorting a battery. Instead, in class, we shorted an LED by giving it too much voltage.
+    1. It took about 13.5 V (or three 4.5 V battery packs) to short out the LED.
+    2. Quiz question: Calculate the resistance of the wires given that the LED causes a voltage drop of 2 V and the amount of current is 0.02 amps.
+
+3. Your first circuit
+![IMG_5059](https://user-images.githubusercontent.com/68158566/153242535-0fff3b7a-ff27-4180-a9d0-a85cdaf07307.jpg)
+(My first circuit. Created using a 470 Ohm resistor.)
+In this experiment, I created my first circuit using first a 470 Ohm resistor and then a 10k Ohm resistor.
+    
+    1. When reading the lines on the resistor, the gold or silver lines should be on the right of the resistor. The rest of the lines should be read left to right.
+    2. The LED shined significantly brighter with the 470 Ohm resistor than with the 10k Ohm resistor.
+    3. Quiz question: Find the resistance of a resistor with red, black, red, and gold lines (from left to right).
+    
+4. Varying the voltage
+![IMG_5060](https://user-images.githubusercontent.com/68158566/153242537-a68cffdf-b09c-4216-a449-8f91dcf33647.jpg)
+
