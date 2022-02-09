@@ -11,9 +11,9 @@
 
 
 
-
 <!--
 BELOW IS A WEEKLY TEMPLATE. COPY/PASTE IT TO ADD A WEEK. SEE ASSIGNMENTS FOR DETAILS 
+
 https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/edit
 -->
 
@@ -69,5 +69,4 @@ In this experiment, I created my first circuit using first a 470 Ohm resistor an
     3. Quiz question: Find the resistance of a resistor with red, black, red, and gold lines (from left to right).
     
 4. Varying the voltage
-![IMG_5060](https://user-images.githubusercontent.com/68158566/153242537-a68cffdf-b09c-4216-a449-8f91dcf33647.jpg)
-
+![IMG_5060](https://user-images.githubusercontent.com/68158566/153247132-a90dbf9c-2adf-40f7-b8df-0f85a317320c.jpg)
