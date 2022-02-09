@@ -18,7 +18,6 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 -->
 
 
-
 ## Week 1
 
 1. One command that navigates the filesystem is "cd" which allows you to move from the current directory into another specified directory. One command that can be used to create files is "vim" which brings up a text editor in the terminal that can be used to create files. One command that runs programs is "python" which runs files coded in python with the .py extension.
@@ -65,7 +64,8 @@ In this experiment, I created my first circuit using first a 470 Ohm resistor an
     3. Quiz question: Find the resistance of a resistor with red, black, red, and gold lines (from left to right).
     
 4. Varying the voltage
-![IMG_5060](https://user-images.githubusercontent.com/68158566/153247132-a90dbf9c-2adf-40f7-b8df-0f85a317320c.jpg) 
+![IMG_5060](https://user-images.githubusercontent.com/68158566/153263289-7e170c50-db3b-42a7-8945-8909bd0ea3d6.jpg)
+
 (A picture of my circuit using a 1k potentiometer and an LED shining as much as it could with 9 V.)
 
     1. A potentiometer is like a resistor that can vary the amount of resistance it provides to a circuit. A potentiometer contains either a plastic or coiled metal wire. The wiper works by allowing the current to bypass a certain amount of either the plastic or metal coil, providing a shortcut that reduces resistance.
