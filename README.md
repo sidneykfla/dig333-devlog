@@ -43,10 +43,6 @@ Question: Doesn't it benefit companies to a certain extent if their IoT devices 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
 1. Taste the power!
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
-
 ![IMG_5058](https://user-images.githubusercontent.com/68158566/153242531-9dea1af9-b2fa-4915-9a98-0d5d434b0925.jpg)
 (The setup that I used to shock my tongue. Photo of me being shocked not included.)
 In this experiment, I connected two 4.5 V battery packs together and then used them to shock my tongue.
@@ -69,4 +65,11 @@ In this experiment, I created my first circuit using first a 470 Ohm resistor an
     3. Quiz question: Find the resistance of a resistor with red, black, red, and gold lines (from left to right).
     
 4. Varying the voltage
-![IMG_5060](https://user-images.githubusercontent.com/68158566/153247132-a90dbf9c-2adf-40f7-b8df-0f85a317320c.jpg)
+![IMG_5060](https://user-images.githubusercontent.com/68158566/153247132-a90dbf9c-2adf-40f7-b8df-0f85a317320c.jpg) 
+(A picture of my circuit using a 1k potentiometer and an LED shining as much as it could with 9 V.)
+
+    1. A potentiometer is like a resistor that can vary the amount of resistance it provides to a circuit. A potentiometer contains either a plastic or coiled metal wire. The wiper works by allowing the current to bypass a certain amount of either the plastic or metal coil, providing a shortcut that reduces resistance.
+    2. When the wiper was all the way counter-clockwise, the resistance was highest and the LED was completely dark. When the wiper was turned all the way clockwise, the resistance was the lowest and the LED was very bright.
+    3. Quiz question: How does the interior of the potentiometer allow for variable resistance?
+    
+    
