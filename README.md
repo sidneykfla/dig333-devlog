@@ -72,6 +72,10 @@ In this experiment, I created my first circuit using first a 470 Ohm resistor an
     
 ## Week 3
 ### Context
-In the Critical Engineering Manifesto, Julian Oliver, Gordan Savičić, and Danja Vasiliev lay out proposed solutions to the nearsightedness of tech development, including looking beyond relentless optimism in favor of frankly evaluating the impact on humanity. Julian Oliver further explains some of the rationale behind these solutions in the profile about him. He describes how he deliberately chooses to not rely on software and what led him to getting involved in techonology and art. His decisions are contextualized in All Watched Over by Machines of Loving Grace (Part I) which describes the objectivist frameworks of Silicon Valley's development and how Ayn Rand's writings indirectly led to the collapse of the global financial system during the 2000s.
+- In the Critical Engineering Manifesto, Julian Oliver, Gordan Savičić, and Danja Vasiliev lay out proposed solutions to the nearsightedness of tech development, including looking beyond relentless optimism in favor of frankly evaluating the impact on humanity. Julian Oliver further explains some of the rationale behind these solutions in the profile about him. He describes how he deliberately chooses to not rely on software and what led him to getting involved in techonology and art. His decisions are contextualized in All Watched Over by Machines of Loving Grace (Part I) which describes the objectivist frameworks of Silicon Valley's development and how Ayn Rand's writings indirectly led to the collapse of the global financial system during the 2000s.
+- I thought it was really interesting how far Oliver was willing to go in order to avoid becoming reliant on technology. I think his point about disabling a lot of the desktop art in order to reduce the amount of branding when he opens up his computer was a cool approach.
+- Question: How was the development of Silicon Valley influenced by the objectivist policies of the banking industry?
+
+
 
 
