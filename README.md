@@ -65,11 +65,13 @@ In this experiment, I created my first circuit using first a 470 Ohm resistor an
     
 4. Varying the voltage
 ![IMG_5060](https://user-images.githubusercontent.com/68158566/153263289-7e170c50-db3b-42a7-8945-8909bd0ea3d6.jpg)
-
 (A picture of my circuit using a 1k potentiometer and an LED shining as much as it could with 9 V.)
-
     1. A potentiometer is like a resistor that can vary the amount of resistance it provides to a circuit. A potentiometer contains either a plastic or coiled metal wire. The wiper works by allowing the current to bypass a certain amount of either the plastic or metal coil, providing a shortcut that reduces resistance.
     2. When the wiper was all the way counter-clockwise, the resistance was highest and the LED was completely dark. When the wiper was turned all the way clockwise, the resistance was the lowest and the LED was very bright.
     3. Quiz question: How does the interior of the potentiometer allow for variable resistance?
     
-    
+## Week 3
+### Context
+In the Critical Engineering Manifesto, Julian Oliver, Gordan Savičić, and Danja Vasiliev lay out proposed solutions to the nearsightedness of tech development, including looking beyond relentless optimism in favor of frankly evaluating the impact on humanity. Julian Oliver further explains some of the rationale behind these solutions in the profile about him. He describes how he deliberately chooses to not rely on software and what led him to getting involved in techonology and art. His decisions are contextualized in All Watched Over by Machines of Loving Grace (Part I) which describes the objectivist frameworks of Silicon Valley's development and how Ayn Rand's writings indirectly led to the collapse of the global financial system during the 2000s.
+
+
