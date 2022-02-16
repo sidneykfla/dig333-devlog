@@ -76,6 +76,6 @@ In this experiment, I created my first circuit using first a 470 Ohm resistor an
 - I thought it was really interesting how far Oliver was willing to go in order to avoid becoming reliant on technology. I think his point about disabling a lot of the desktop art in order to reduce the amount of branding when he opens up his computer was a cool approach.
 - Question: How was the development of Silicon Valley influenced by the objectivist policies of the banking industry?
 
-
+I also did the tinkercad onboarding tutorials which taught me how to rotate and move the camera as well as place and rotate an object.
 
 
