@@ -83,3 +83,9 @@ Additionally, I read Chapter 2 in the Monk book which was about networking. It d
 - In Pay for the Printer, Phillip K. Dick describes a future in which humans have become entirely reliant on technology (in the form of a benevolent alien race) that they do not understand. In The Preserving Machines, Dick elaborates on this theme by describing how an effort to save reproductions of sheet music by famous musicians ends with disastrous and unforeseen consequences. In both cases, the theme of the dangers of human dependence is described. In part 2 of All Watched Over by Machines of Loving Grace, the field of cybernetics is discussed as well as the limits of modeling natural systems.
 - I thought it was interesting how both of Dick's works described human creation in terms of both survival as well as for its own sake. In Pay for the Printer, Dawes discusses how proud he is of the very basic cup that he carved. In The Preserving Machine, Doc Labyrinth discusses his pride in the sheet music animals created by his machine. It is made clear by both texts that the key to human survival is not Luddism but instead thoughtful creation. Another thought I had was that some aspects of the plot Pay for the Printer reminded me of WALL-E.
 - Question: How were Dick's writings influenced by Cold War era improvements in technology?
+
+### Monk Chapter 3
+Chapter 3 describes how to navigate the file system on a Rasberry Pi using the Command Line Interface. It describes how to use commands such as cd (change directory), mv (move), cp (copy), and nano (opens a file editor). It also describes the process of downloading software using sudo apt-get. This chapter was largely review of what we did in the CLI activities.
+
+### Monk Chapter 5
+Chapter 5 describes basic Python such as printing, creating variables, performing arithmetic, and doing string operations. It also describes if statements and loops. This chapter was also mostly review.
