@@ -78,4 +78,8 @@ In this experiment, I created my first circuit using first a 470 Ohm resistor an
 
 Additionally, I read Chapter 2 in the Monk book which was about networking. It described how to connect a raspberry pi to other devices such as printers and computers, controlling it via SSH or VNC, and connecting it to the wifi. I also did the tinkercad onboarding tutorials which taught me how to rotate and move the camera as well as place and rotate an object.
 
-
+## Week 4
+### Context
+- In Pay for the Printer, Phillip K. Dick describes a future in which humans have become entirely reliant on technology (in the form of a benevolent alien race) that they do not understand. In The Preserving Machines, Dick elaborates on this theme by describing how an effort to save reproductions of sheet music by famous musicians ends with disastrous and unforeseen consequences. In both cases, the theme of the dangers of human dependence is described. DESCRIBE ALL WATCHED OVER BY MACHINES OF LOVING GRACE
+- I thought it was interesting how both of Dick's works described human creation in terms of both survival as well as for its own sake. In Pay for the Printer, Dawes discusses how proud he is of the very basic cup that he carved. In The Preserving Machine, Doc Labyrinth discusses his pride in the sheet music animals created by his machine. It is made clear by both texts that the key to human survival is not Luddism but instead thoughtful creation.
+- Question: ADD A QUESTION
