@@ -100,20 +100,25 @@ Chapter 5 describes basic Python such as printing, creating variables, performin
 ### Experiments
 
 6. Very Simple Switching
+
 ![IMG_5106](https://user-images.githubusercontent.com/68158566/156400756-b7d2b985-956a-4438-b9df-2b9e4963b284.jpg)
 (Photo of our setup)
 
-In this experiment, we added a switch to our basic LED circuit which we used to turn the LED on and off.
+In this experiment, we added two switches to our basic LED circuit which we used to turn the LED on and off.
 Quiz question: How do switches work?
 
 7. Investigating a Relay
+
 [Experiment 7 video]: https://youtu.be/NfBcLCm8FXU
 
 In this experiment, we set up a relay that would beep until we pushed down on our button switch.
 Quiz question: How is a relay different from a regular switch?
 
 8. A Relay Oscillator
+![IMG_5110](https://user-images.githubusercontent.com/68158566/156410553-34d0dde3-7453-448a-80ce-f262ca94a59e.jpg)
+(The setup that we used in class)
 
+In this experiment, we set up a circuit using a breadboard where pressing the button causes one of the LEDs to turn on and the other to turn off.
 
 
 9. Time and Capacitors
