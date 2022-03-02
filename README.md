@@ -95,3 +95,27 @@ Chapter 5 describes basic Python such as printing, creating variables, performin
 - In "Everything That's Inside Your iPhone", Brian Merchant investigates the origins of the iPhone. He finds that the majority of each phone is comprised of a small amount of largely inexpensive metal. However, the human toll of mining the components is high. He travels to Cerro Rico in Bolivia and finds that the conditions in which the tin used for soldering is mined are terrifying and that the mountain is extremely dangerous. He ends by discussing the difficulties behind regulating these industries. In "One Man's Nearly Impossible Quest to Make a Toaster From Scratch", Rachel Swaby describes Thomas Thwaites' Herculaen journey to make his own toaster from raw materials. She relates the difficulties that Thwaites' had in sourcing these raw materials given that they come from all over the world. She then described his process for turing the raw materials into components. This included his attempts to smelt some of the metal as well melt down plastic from around his house. ALL WATCHED OVER BY MACHINES OF LOVING GRACE
 - I understand that most of the global supply chain for producing electronics is a result of where certain metals are found, however, it works out so conveniently for some of these companies that I'm wondering whether some of the difficulty that Thwaites found when trying to source the raw materials and some of the difficulty that Merchant found in regulating these industries aren't just effects of a globalized economy but instead purposeful obfuscation. It directly benefits large tech companies that every component comes from a different country and that each of these countries has different patchwork labor laws.
 - Question: As technology gets thinner and smaller over time, will the demand for these raw materials decrease? As labs get better at synthesizing these materials (cutting human miners out of the equation), will that lead to an increased or decreased quality of life for those who depend upon this industry for their income?
+
+
+### Experiments
+
+6. Very Simple Switching
+![IMG_5106](https://user-images.githubusercontent.com/68158566/156400756-b7d2b985-956a-4438-b9df-2b9e4963b284.jpg)
+(Photo of our setup)
+
+In this experiment, we added a switch to our basic LED circuit which we used to turn the LED on and off.
+Quiz question: How do switches work?
+
+7. Investigating a Relay
+[Experiment 7 video]: https://youtu.be/NfBcLCm8FXU
+
+In this experiment, we set up a relay that would beep until we pushed down on our button switch.
+Quiz question: How is a relay different from a regular switch?
+
+8. A Relay Oscillator
+
+
+
+9. Time and Capacitors
+
+10. Transistor Switching
