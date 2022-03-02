@@ -119,7 +119,7 @@ Quiz question: How is a relay different from a regular switch?
 (The setup that we used in class)
 
 In this experiment, we set up a circuit using a breadboard where pressing the button causes one of the LEDs to turn on and the other to turn off.
-
+Quiz question: Why does one of the lights turn off when the button is pressed?
 
 9. Time and Capacitors
 
