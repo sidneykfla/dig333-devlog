@@ -109,7 +109,7 @@ Quiz question: How do switches work?
 
 7. Investigating a Relay
 
-[Experiment 7 video]: https://youtu.be/NfBcLCm8FXU
+Experiment 7 video: https://youtu.be/NfBcLCm8FXU
 
 In this experiment, we set up a relay that would beep until we pushed down on our button switch.
 Quiz question: How is a relay different from a regular switch?
@@ -123,4 +123,36 @@ Quiz question: Why does one of the lights turn off when the button is pressed?
 
 9. Time and Capacitors
 
+In this experiment, we looked at how the resistance changed how fast we were able to charge a capacitor using a battery. The battery charges faster with less resistance, but the change is not linear. I found that it took about two seconds with the lower resistance and about ten seconds with the higher resistance.
+
+https://user-images.githubusercontent.com/68158566/157496073-d55704b1-a0dc-4474-9c0f-5e7b3b5c14d3.MOV
+
+Quiz question: If the resistance used is 10k Ohms, how long would we expect it to take to charge the capacitor to 9V?
+
 10. Transistor Switching
+In this experiment, we showed that when charge is applied to the base of an NPN transistor, that charge can control the flow of other charge going through the transistor.
+![IMG_5172](https://user-images.githubusercontent.com/68158566/157496822-b2c0cf78-f883-44e0-b5b2-21a01fde3554.jpg)
+
+## Week 6
+
+### Context 
+- In "Igloo White", John Correll describes the history of the military operation "Igloo White" which was an attempt by the US to create a sensor-based wall between North and South Vietnam during the Vietnam War. These sensors could detect noise, urine, and sweat. It is difficult to determine whether this operation was a success or not. In one notable anecdote, after the US military proudly claimed to have stopped a certain number of trucks from North Vietnam using these sensors, a Vietnamese official responded that this number was significantly higher than the number of trucks in both North and South Vietnam. Despite these mixed results, Igloo White laid the groundwork for both significant progress in sensor development and police surveillance following 9/11. This is the topic discussed in "Unseen Sensors: Constantly Sensing but Rarely Seen" by Mayo Nissen. This article shows many examples of the ways that conditions are monitored in public areas using sensors and raises questions about why and how this tech is implemented.
+- Some of the tech in "Unseen Sensors: Constantly Sensing but Rarely Seen" reminds me of a common story from my hometown. I'm from a coastal area of Floria that is decently popular with tourists and spring breakers. There is an extremely wealthy area nearby called Longboat Key. Because there are a limited number of ways on and off of Longboat Key, all of the entrances are heavily monitored. Police scanners scan license tags not just for stolen vehicles, but also for whether or not the owner has a police record. The entire area has extremely intense security that people who live there generally seem to approve of. https://www.wtsp.com/article/news/local/sarasotacounty/are-longboat-key-cameras-an-invasion-of-privacy/67-121490259
+- Question: What process exists for registering surveillance/sensor devices? Legally, do you need to report if you are using sensors in a public area? 
+
+
+### Experiments
+
+11. Light and Sound
+
+In this experiment, we used transistors to create a flashing LED light.
+
+https://user-images.githubusercontent.com/68158566/157498242-02842475-50eb-43c5-94df-288e1e71b87a.MOV
+
+
+12. Joining Two Wires Together
+
+In this experiment, we learned how to solder two wires together.
+
+
+
