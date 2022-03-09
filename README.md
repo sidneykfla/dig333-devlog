@@ -158,3 +158,7 @@ In this experiment, we learned how to solder two wires together.
 13. Roasting an LED
 
 In the same way that's it's possible to burn out an LED using too much current, it's also possible to burn out an LED using heat.
+
+
+Monk: Chapter 6, Python Lists and Dictionaries
+Chapter 6 describes Python list operations such as removing an element from a list, adding an element to a list, etc. It also describes dictionaries which is basically two lists in which values from one list are associated with keys from the other.
