@@ -155,4 +155,6 @@ https://user-images.githubusercontent.com/68158566/157498242-02842475-50eb-43c5-
 In this experiment, we learned how to solder two wires together.
 
 
+13. Roasting an LED
 
+In the same way that's it's possible to burn out an LED using too much current, it's also possible to burn out an LED using heat.
