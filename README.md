@@ -162,3 +162,15 @@ In the same way that's it's possible to burn out an LED using too much current, 
 
 Monk: Chapter 6, Python Lists and Dictionaries
 Chapter 6 describes Python list operations such as removing an element from a list, adding an element to a list, etc. It also describes dictionaries which is basically two lists in which values from one list are associated with keys from the other.
+
+
+## Week 7
+
+### In class activities
+
+
+https://user-images.githubusercontent.com/68158566/157533503-03462974-06ba-4d16-a2ad-cc55ed319a53.MOV
+
+![IMG_5178](https://user-images.githubusercontent.com/68158566/157533576-5f655a73-b100-4c6a-acc9-c566098ad2b4.jpg)
+
+![IMG_5179](https://user-images.githubusercontent.com/68158566/157533566-e38fe65e-06a3-426e-be24-8002a4b3077a.jpg)
