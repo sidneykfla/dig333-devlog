@@ -176,5 +176,16 @@ https://user-images.githubusercontent.com/68158566/157533503-03462974-06ba-4d16-
 ## Week 8
 
 ### Monk Chapter 11
-This chapter describes how to connect a button to a breadboard hooked up to a Raspberry Pi and use it with code to turn an LED on and off. It also describes the process of connecting two-position and center-off toggles where the two-position works similarly to a tactile button and the center-off toggle has three states. This chapter also describes bouncing (which is where the expected action happens twice when a button is pressed) and de-bouncing which is the process by which bouncing is prevented.
+This chapter describes how to connect a button to a breadboard hooked up to a Raspberry Pi and use it with code to turn an LED on and off. It also describes the process of connecting two-position and center-off toggles where the two-position works similarly to a tactile button and the center-off toggle has three states. This chapter also describes bouncing (which is where the expected action happens twice when a button is pressed) and de-bouncing which is the process by which bouncing is prevented. It also covers using other physical inputs to digital processes such as keypads, motion detectors, GPS, keypresses, and mouse movements. This chapter shows how you can connect actions in the Raspberry Pi to the time. 
+
+### Monk Chapter 12
+This chapter covers the process of connecting sensors to your Raspberry Pi and using their info in your code. These sensors can measure resistance, detect methane, measure voltage, take the temperature, record acceleration, and measuring distance using ultrasonic. The chapter then shows the process of displaying this information and storing it on a flash drive.
+
+## Milestone 1
+The first milestone that I had in my proposal was to connect electronics on a breadboard to my Raspberry Pi. This was something that I was able to accomplish during class using Lauren's tutorial about using LEDs to count in binary. A video of the final result is included below although the actual counting is slightly faulty due to a mixup with the code.
+
+https://user-images.githubusercontent.com/68158566/160891441-46cd30f5-0ad0-4eb4-9d46-d6433859c75c.mov
+
+
+
 
