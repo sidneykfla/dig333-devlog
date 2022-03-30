@@ -166,11 +166,15 @@ Chapter 6 describes Python list operations such as removing an element from a li
 
 ## Week 7
 
-### In class activities
-
 (The results of running blink.py)
 https://user-images.githubusercontent.com/68158566/157533503-03462974-06ba-4d16-a2ad-cc55ed319a53.MOV
 
 
 (The results of running led.on() in gpizero)
 ![IMG_5179](https://user-images.githubusercontent.com/68158566/157533566-e38fe65e-06a3-426e-be24-8002a4b3077a.jpg)
+
+## Week 8
+
+### Monk Chapter 11
+This chapter describes how to connect a button to a breadboard hooked up to a Raspberry Pi and use it with code to turn an LED on and off. It also describes the process of connecting two-position and center-off toggles where the two-position works similarly to a tactile button and the center-off toggle has three states. This chapter also describes bouncing (which is where the expected action happens twice when a button is pressed) and de-bouncing which is the process by which bouncing is prevented.
+
