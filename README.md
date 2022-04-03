@@ -165,6 +165,7 @@ Chapter 6 describes Python list operations such as removing an element from a li
 
 
 ## Week 7
+This chapter describes how hardware can be controlled using the Raspberry Pi. This includes controlling the color and brightness of an LED as well as controlling many LEDs using only a few pins (also known as Charlieplexing). 
 
 (The results of running blink.py)
 https://user-images.githubusercontent.com/68158566/157533503-03462974-06ba-4d16-a2ad-cc55ed319a53.MOV
