@@ -195,7 +195,7 @@ Here is a picture of the current iteration:
 ![IMG_5350](https://user-images.githubusercontent.com/68158566/163260057-f49d812d-d1c4-494c-9187-ee55e2eef5a0.jpg)
 
 Questions:
-Am I providing the motor or the driver with the additional power? I thought that the motor got its 5 V from the Raspberry Pi GPIO. Additionally, can I use any wheels with the motor? I found some really great wheels in the closet that might be great in the coming weeks, but I'm not sure about their turning ability.
+Am I providing the motor or the driver with the additional power? I thought that the motor got its 5 V from the Raspberry Pi GPIO. Additionally, can I use any wheels with the motor? I found some really great wheels in the closet that might be great in the coming weeks, but I'm not sure about their turning ability. 
 
 Next steps:
 Hopefully figure out how to provide the driver with additional power so that I can get the wheel programmable. Add another motor and wheel. Attach camera.
