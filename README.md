@@ -187,6 +187,18 @@ The first milestone that I had in my proposal was to connect electronics on a br
 
 https://user-images.githubusercontent.com/68158566/160891441-46cd30f5-0ad0-4eb4-9d46-d6433859c75c.mov
 
+## Milestone 2
+Overview:
+Using a tutorial (https://learn.adafruit.com/adafruits-raspberry-pi-lesson-10-stepper-motors/hardware-l293d), I was able to attach a stepper motor and wheel to my Raspberry Pi, and I can program it to move forwards (although the motion is somewhat jerky). However, when I run the code to get it to go backwards, the wheel still goes forward. Dr. Mundy suggested that I address this by providing the driver with its own power source. Using a different tutorial (https://learn.adafruit.com/adafruit-raspberry-pi-lesson-9-controlling-a-dc-motor/hardware), I was able to create a separate circuit that provides the driver with an additional 5.9 V. However, when I run my code now, the motor just vibrates without actually turning. When I tried to rewire the circuit and change where the power was going to on the breadboard, I started smelling smoke.
+
+Here is a picture of the current iteration: 
+![IMG_5350](https://user-images.githubusercontent.com/68158566/163260057-f49d812d-d1c4-494c-9187-ee55e2eef5a0.jpg)
+
+Questions:
+Am I providing the motor or the driver with the additional power? I thought that the motor got its 5 V from the Raspberry Pi GPIO. Additionally, can I use any wheels with the motor? I found some really great wheels in the closet that might be great in the coming weeks, but I'm not sure about their turning ability.
+
+Next steps:
+Hopefully figure out how to provide the driver with additional power so that I can get the wheel programmable. Add another motor and wheel. Attach camera.
 
 
 
