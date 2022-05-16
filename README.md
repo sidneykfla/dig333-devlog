@@ -201,4 +201,29 @@ Next steps:
 Hopefully figure out how to provide the driver with additional power so that I can get the wheel programmable. Add another motor and wheel. Attach camera.
 
 
+## Milestone 3
+Overview:
+Ended up having to change my project due to the fact that I am now at home. I decided that I wanted to transition to something less physical and more coding-based. For that reason, I'm building a command-line Tamagotchi pet rock that has physical health levels made from LEDs. For this milestone, I wrote all of the code for the command-line Tamagotchi. This includes ASCII art for the Tamagotchi, code that accepts various action inputs ("feed", "give water", and "play), as well as feedback to the user. There's some exception-handling in the code as well.
 
+```
+         /---------\ 
+        /             \ 
+       /               \ 
+      /      -   -      \ 
+      |                 |
+       \       ---     / 
+        \             /
+          ----------- 
+
+Your rock cannot eat but somehow adjusts its nourishment levels accordingly.
+
+Hunger level: 9
+Thirst level: 2
+```
+
+Here is an example of what typical output looks like when the user requests to "feed" their pet rock.
+
+Questions: Do I need to use a form of multiplexing for the LEDs or can I just use around 20 GPIO pins each connected to a separate LED?
+
+Next steps:
+The one aspect of the code that I don't have working yet are the global health levels. I want to use Crontab to decrease each of the levels over time, and I have to figure out how to be able to keep the levels constant over Python runs so that they aren't reset by running the code (unless the user requests for it to be reset). I also have to get the physical aspects of this project up and running. Once I have the health levels working, I have to get LEDs to react to the code.
